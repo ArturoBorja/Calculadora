@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ImagenScroll"></activity>
+        <activity android:name=".Calculadora"></activity>
+        <activity android:name=".ImagenScroll" />
         <activity android:name=".Formulario" />
         <activity android:name=".CuatroBotones" />
         <activity android:name=".Botonalmedio" />
